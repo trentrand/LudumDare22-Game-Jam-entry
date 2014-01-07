@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sat Dec 17 13:52:26 MST 2011
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=LD22.jar
+manifest.mergeall=true
+manifest.mainclass=com.nightmare.LD22.FrameWork.DesktopLauncher
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
